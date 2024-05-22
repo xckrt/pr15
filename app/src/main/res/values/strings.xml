@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dota 2 Quiz</string>
+    <string name="dota2">Тест по доте 2</string>
+    <string name="start">Начать</string>
+    <string name="first_quest">Black King Bar защищает\n от чистого урона?</string>
+    <string name="second_quest">Можно ли атаковать своих собственных миньонов?</string>
+    <string name ="third_quest">Могут ли дебаффы быть устранены с помощью предмета Black King Bar?</string>
+    <string name ="fourth_quest">Могут ли герои использовать предметы, находясь в состоянии "стазиса"\n(например, от Brewmaster\'s Primal Split или Eul\'s Scepter of Divinity)?</string>
+    <string name ="fifth_quest">Можно ли уворачиваться от урона физического типа с помощью предмета Butterfly?</string>
+    <string name ="sixth_quest">Можно ли блокировать дальнобойные атаки с помощью предмета Blademail?</string>
+    <string name ="seventh_quest">Влияет ли предмет Magic Stick на количество зарядов, если вы его продаете и затем снова покупаете?</string>
+    <string name ="eighth_quest">Могут ли некоторые способности игнорировать магическое заклинание с предмета Linken\'s Sphere?</string>
+    <string name ="nineth_quest">Можно ли разбить "крипсконтроль" противника с помощью Ward?</string>
+    <string name ="tenth_quest">Могут ли существа-прислужники (например, Necronomicon Archer) наносить урон зданиям?</string>
+    <string name="yes">Да</string>
+    <string name="correct">Верно!</string>
+    <string name="incorrect">Неверно!</string>
+    <string name="end">Вопросы закончились!\nВсего доброго</string>
+    <string name="no">Нет</string>
+    <string name="login">Логин</string>
+    <string name="corlogin">ekts</string>
+    <string name="corpass">ekts2024</string>
+    <string name="pass">Пароль</string>
+    <string name="emptybody">Есть незаполненные поля</string>
+    <string name="wronglog">Неправильный логин</string>
+    <string name="wrongpass">Неправильный пароль</string>
+
+</resources>
