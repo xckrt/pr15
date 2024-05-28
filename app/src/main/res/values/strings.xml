@@ -24,5 +24,16 @@
     <string name="emptybody">Есть незаполненные поля</string>
     <string name="wronglog">Неправильный логин</string>
     <string name="wrongpass">Неправильный пароль</string>
+    <string name="next">Следующий</string>
+    <string name="back">Предыдущий</string>
+    <string name="backerror">Это первый вопрос</string>
+    <string name="lastquest">Это последний вопрос</string>
+    <string name="finish">Итоги теста</string>
+    <string name="OK">Завершить тест</string>
+    <string name ="site">https://www.youtube.com/watch?v=dQw4w9WgXcQ</string>
+    <string name="correctans">Правильных ответов:</string>
+    <string name="incorrectans">Неправильных ответов:</string>
+    <string name="endmanually">Завершить тест</string>
+    <string name="testend">Тест завершен</string>
 
 </resources>
